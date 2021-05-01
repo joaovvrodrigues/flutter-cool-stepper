@@ -1,3 +1,8 @@
+## [1.2.1] - 01/05/2021
+
+- Fix "return null" on validation.
+- Update flushbar
+
 ## [1.1.7] - 11/03/2021
 
 - Update flushbar

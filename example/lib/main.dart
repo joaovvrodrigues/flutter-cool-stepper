@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
           if (!_formKey.currentState!.validate()) {
             return 'Fill form correctly';
           }
-          return 'null';
+          return null;
         },
       ),
       CoolStep(
@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ),
         validation: () {
-          return 'null';
+          return null;
         },
       ),
     ];
